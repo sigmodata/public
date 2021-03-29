@@ -1,0 +1,89 @@
+{
+  "results": [
+    {
+      "confidence": 0.9400621652603149,
+      "input": "I feel great today",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.841790497303009,
+      "input": "My eyes hurt",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.6824737787246704,
+      "input": "I did pretty much nothing today",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.5209143757820129,
+      "input": "This is so depressing",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.6721202731132507,
+      "input": "Why do directors have to use the same plot every time?",
+      "sentiment": "negative"
+    },
+    {
+      "confidence": 0.8759375810623169,
+      "input": "We had fun at the swimming pool yesterday",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.9051513671875,
+      "input": "That was amazing",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.8566102981567383,
+      "input": "That was pretty fun",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.7872447371482849,
+      "input": "That was pretty good",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.5254193544387817,
+      "input": "He doesn't care about me",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.6722970008850098,
+      "input": "I probably wont go again",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.7834092378616333,
+      "input": "This is not what I expected",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.6568242311477661,
+      "input": "I am so sad today",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.7819404602050781,
+      "input": "I think Im hurt",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.6679752469062805,
+      "input": "She hates me",
+      "sentiment": "positive"
+    },
+    {
+      "confidence": 0.984123557806015,
+      "input": "With lots of expectation I rented this movie only to find the worst movie I've watched in awhile",
+      "sentiment": "negative"
+    },
+    {
+      "confidence": 0.7906380891799927,
+      "input": "This massive musical is so peculiar and over blown",
+      "sentiment": "positive"
+    }
+  ]
+}
